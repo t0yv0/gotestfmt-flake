@@ -4,7 +4,7 @@
   inputs = {
     nixpkgs.url = github:NixOS/nixpkgs/nixos-22.05;
     gotestfmt-src = {
-      url = "github:haveyoudebuggedit/gotestfmt/v2.3.2";
+      url = "github:GoTestTools/gotestfmt/v2.3.2";
       flake = false;
     };
   };
