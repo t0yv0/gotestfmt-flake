@@ -5,13 +5,13 @@
       "locked": {
         "lastModified": 1652635847,
         "narHash": "sha256-BZ0hF/BdMzm8gPZNYQS8I9wv+YXZQWDqS1uUzdzVjUg=",
-        "owner": "haveyoudebuggedit",
+        "owner": "GoTestTools",
         "repo": "gotestfmt",
         "rev": "f179b0e462a9dcf7101515d87eec4e4d7e58b92a",
         "type": "github"
       },
       "original": {
-        "owner": "haveyoudebuggedit",
+        "owner": "GoTestTools",
         "ref": "v2.3.2",
         "repo": "gotestfmt",
         "type": "github"
