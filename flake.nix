@@ -2,9 +2,9 @@
   description = "A flake defining gotestfmt build-from-source";
 
   inputs = {
-    nixpkgs.url = github:NixOS/nixpkgs/nixos-22.05;
+    nixpkgs.url = github:NixOS/nixpkgs/nixos-22.11;
     gotestfmt-src = {
-      url = "github:GoTestTools/gotestfmt/v2.3.2";
+      url = "github:GoTestTools/gotestfmt/v2.4.1";
       flake = false;
     };
   };
@@ -16,7 +16,7 @@
     }:
 
     let
-      ver = "2.3.2";
+      ver = "2.4.1";
 
       package = { system }:
         let

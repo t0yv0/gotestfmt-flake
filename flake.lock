@@ -3,32 +3,32 @@
     "gotestfmt-src": {
       "flake": false,
       "locked": {
-        "lastModified": 1652635847,
-        "narHash": "sha256-BZ0hF/BdMzm8gPZNYQS8I9wv+YXZQWDqS1uUzdzVjUg=",
+        "lastModified": 1665644699,
+        "narHash": "sha256-Rb/nIsHISzvqd+jJU4TNrHbailvgGEq4y0JuM9IdA3w=",
         "owner": "GoTestTools",
         "repo": "gotestfmt",
-        "rev": "f179b0e462a9dcf7101515d87eec4e4d7e58b92a",
+        "rev": "9eae5abc81d6d08f73268741ef4a8b97f29b60d8",
         "type": "github"
       },
       "original": {
         "owner": "GoTestTools",
-        "ref": "v2.3.2",
+        "ref": "v2.4.1",
         "repo": "gotestfmt",
         "type": "github"
       }
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1661262176,
-        "narHash": "sha256-42FXNd2B0QECaULG0Vx+oYzQ9euKcmlg2gmX2D+HbKI=",
+        "lastModified": 1684936879,
+        "narHash": "sha256-BOSq/QiX7MDs8tUnAt4+nYTJctgYkzVSNL95qlfMYeM=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "b9fd420fa535fd254c6f1f26df770b32a9dc98b4",
+        "rev": "99fe1b870522d6ee3e692c2b6e663d6868a3fde4",
         "type": "github"
       },
       "original": {
         "owner": "NixOS",
-        "ref": "nixos-22.05",
+        "ref": "nixos-22.11",
         "repo": "nixpkgs",
         "type": "github"
       }
